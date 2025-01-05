@@ -1,2 +1,2 @@
-### Wundrsight Assignment
-# Snake Game
+# Wundrsight Assignment
+## Snake Game
